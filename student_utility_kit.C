@@ -2,7 +2,7 @@
 int main()
 {
     int a,i,choice,digit,sum=0,reverse=0,original,result;
-    printf("------------------------\n");
+    printf(";\n------------------------\n");
     printf("STUDENT UTILITY TOOLKIT");
     printf("\n------------------------\n");
 
